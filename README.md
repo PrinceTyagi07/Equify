@@ -76,7 +76,7 @@ This web application is designed for broking and trading purposes, providing use
         </ul>
     </div>
 
-    <div class="section">
+    <div >
         <h2>Technologies Used</h2>
         <ul>
             <li><strong>Frontend:</strong> React.js, Bootstrap</li>
